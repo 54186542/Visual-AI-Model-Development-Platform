@@ -16,6 +16,8 @@ public class AiVisualApplication {
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }
+
+
 }
 
 
